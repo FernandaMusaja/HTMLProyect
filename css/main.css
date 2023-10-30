@@ -1,0 +1,163 @@
+.S{
+    width: 100%;
+    height: 160vh;
+}
+.screen{
+    width: 100%;
+    height: 100%;
+    background-color: #891111;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.title{
+    font-size: 40px;
+    color: white;
+}
+.icon{ 
+    width: 20%;
+    height: 20%;
+    margin-top: 2rem;
+}
+.pepa{
+    width: 100%;
+    height: 100%;
+}
+.Texto{
+    margin-top: 2rem;
+    font-size: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+.Text{
+    margin-top: 0.5rem;
+    font-size: 30px;
+    color: white;
+}
+.Buttom{
+    border-radius: 8px;
+    font-size: 20px;
+    margin-top: 2rem;
+    height: 4rem;
+    color: #4C0505;
+    background-color: #FA6A6A;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.Buttom1{
+    border-radius: 8px;
+    font-size: 60px;
+    margin-top: 2rem;
+    height: 4rem;
+    color: #4C0505;
+    background-color: #FA6A6A;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.Buttom2{
+    border-radius: 8px;
+    font-size: 20px;
+    margin-top: 2rem;
+    height: 4rem;
+    color: #ffffff;
+    background-color: #4C0505;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.Box-Text{
+    width: 25%;
+    height: 5rem;
+    font-size: 25px;
+}
+.Box{
+    border-radius: 10px;
+    width: 70%;
+    background-color: #FA6A6A;
+    height: 50%;
+}
+.input{
+    width: 100%;
+    height: 100%;
+    border-radius: 5px;
+    border-color: transparent;
+    background-color: #FA6A6A;
+    font-size: 20px;
+}
+.Title-Box{
+    width: 100%;
+    height: 5rem;
+    background-color: #4C0505;
+    display: flex;
+    justify-content: safe;
+    align-items: center;
+}
+.Title-Icon{
+    width: 30%;
+    height: 5rem;
+}
+.Pepa1{
+    height: 5rem;
+}
+.box-container1{
+    margin-top: 2rem;
+    width: 70%;
+    height: 20%;
+    display: flex;
+    justify-content: center;
+    color: aliceblue;
+    font-size: 20px;
+}
+.box{
+    background-color: transparent;
+    width: 40%;
+    height: 100%;
+    margin-left: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;  
+    align-items: center;
+}
+.box1{
+    background-color: transparent;
+    width: 40%;
+    height: 100%;
+    margin-left: 7rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;  
+    align-items: center;
+}
+.Food-Image{
+    margin-left: 10rem;
+    width: 40%;
+    height: 25rem;
+}
+.So{
+    width: 80%;
+    height: 100%;
+}
+.HG{
+    font-size: 30px;
+    color: white;
+}
+.Buttom3{
+    border-radius: 8px;
+    font-size: 50px;
+    margin-top: 2rem;
+    height: 4rem;
+    color: #ffffff;
+    background-color: #4C0505;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
